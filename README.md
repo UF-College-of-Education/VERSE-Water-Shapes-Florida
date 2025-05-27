@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15530600.svg)](https://doi.org/10.5281/zenodo.15530600)
+
 # VERSE: Water Shapes Florida Exhibit - Florida Museum of Natural History
 
 ![VERSE Intro Screen](https://github.com/UF-College-of-Education/VERSE-Water-Shapes-Florida/blob/main/screenshots/1.jpg?raw=true)
